@@ -1,0 +1,12 @@
+{
+    "name": "C++ Development",
+    "image": "://microsoft.com",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "ms-vscode.cpptools",
+                "ms-vscode.cpptools-extension-pack"
+            ]
+        }
+    }
+}
