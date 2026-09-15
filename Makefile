@@ -1,5 +1,5 @@
 CXX = g++
-CXXFLAGS = std=c++17 -wall -Iinclude
+CXXFLAGS = -std=c++17 -Wall -Iinclude
 
 SRC_DIR = src
 BUILD_DIR = build
